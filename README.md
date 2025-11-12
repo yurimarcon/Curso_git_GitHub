@@ -1,4 +1,5 @@
 # Curso Git & GitHub
+> Versão: 1.0
 
 ## Objetivo
 
