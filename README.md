@@ -87,6 +87,10 @@ Vai para outra branch do projeto.
 
 Traz todas as alterações de outra branch para “mergear”com a branch atual.
 
+### 16  git stash 
+
+Permite salvar alterações temporariamente sem criar um commit.  
+Util quando você está trabalhando em algo, mas precisa mudar de branch rapidamente ou fazer um pull sem perder suas alterações.
 ---
 ## Contatos
 
