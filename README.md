@@ -1,5 +1,7 @@
 # Curso Git & GitHub
 
+## Alterando para a tarefa da aula 05
+
 ## Objetivo
 
 - Ensinar como gerir projetos pessoais e de estudos com controle de versão e upload do projeto para o GitHub para manter backup e poder compartilhar com outras pessoas, dessa forma construindo um portfólio para apresentar em vagas de emprego.
