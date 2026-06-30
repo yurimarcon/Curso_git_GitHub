@@ -1,4 +1,4 @@
-# Curso Git & GitHub
+# Curso Git & GitHub CI/CD
 
 ## Objetivo
 
